@@ -1,0 +1,1 @@
+A simple calculator which can execute addition, subtraction, multiplication and division
